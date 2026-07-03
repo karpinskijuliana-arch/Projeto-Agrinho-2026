@@ -11,5 +11,8 @@
     background-color: brown;
     color: black;
     display: flex;
-    justify
+    justify-content: center;
+}
+.imagem-main{
+    width: 80px;
 }
