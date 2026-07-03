@@ -1,9 +1,15 @@
 .cabecalho{
-    background-color: blueviolet;
-    color: lightpink;
+    background-color: rgb(15, 124, 33);
+    color: rgb(0, 0, 0);
     display:flex;
     justify-content: center;
 }
 .imagem-logo{
     width: 80px;
+}
+.main{
+    background-color: brown;
+    color: black;
+    display: flex;
+    justify
 }
